@@ -2,7 +2,7 @@
 Bay Area Zoning Regulations
 ***************************
 
-Last Updated: 08/10/2020
+Last Updated: 09/30/2020
 
 
 State Level
