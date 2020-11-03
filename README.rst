@@ -20,6 +20,15 @@ https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB
 * ADU and JADU
 
 
+R303.9 Required Heating
+-----------------------
+
+https://up.codes/viewer/california/ca-residential-code-2016/chapter/3/building-planning#R303.9
+
+* Location of heater must be 3 feet above the ground and 2 feet away from any exterior walls
+* Is electric heater OK?
+
+
 City Level
 ==========
 
